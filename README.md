@@ -15,8 +15,10 @@ USB kabel/
 
 schéma:
 
+![schema](https://github.com/Hoky8/Hcoke-projekt1/assets/154540264/7711c844-d2c8-44d0-b23d-f5d2173a0ce7)
 
-![image](https://github.com/Hoky8/hocke-projekt/assets/154540264/b09244d7-a449-47c4-980d-ae28515a7f2c)
+
+
 
 software:
 
@@ -47,24 +49,29 @@ zapojení:
 
 napajení(červené drátky)
 
-![image](https://github.com/Hoky8/hocke-projekt/assets/154540264/e1f43b45-9826-42f4-b879-272074d89e17)
+![IMG_7945](https://github.com/Hoky8/Hcoke-projekt1/assets/154540264/1cb9afb6-1b80-41c0-8d4f-580e68a65ffa)
+
 
 analog(bílí drátek)
 
-![image](https://github.com/Hoky8/hocke-projekt/assets/154540264/6483b41e-ca8c-4121-a69f-22fc58c540a7)
+![IMG_7946](https://github.com/Hoky8/Hcoke-projekt1/assets/154540264/5fe094e9-80f9-42f0-a98e-c5f0c81da225)
+
 
 zem(modré drátky
 
-![image](https://github.com/Hoky8/hocke-projekt/assets/154540264/180b7bad-3726-48cd-8960-27f3242aefd6)
+![IMG_7947](https://github.com/Hoky8/Hcoke-projekt1/assets/154540264/08f07dca-9f5c-4c87-a5ec-1104dfc3d9d6)
+
 
 zapojení digitalních drátku dne schématu 
 
-![image](https://github.com/Hoky8/hocke-projekt/assets/154540264/aebe5150-7102-408d-8455-5915813a97e0)
+![IMG_7948](https://github.com/Hoky8/Hcoke-projekt1/assets/154540264/69309b35-992a-42f2-bdb6-c9af94148a49)
 
 z osobní zkušenosti varuji před nedostatkem ve schématu kde není zapojení Vo (dle obrázku žlutého drátku) jedná se o zapojení potenciometru avšak pro náš projekt bude stačit zapojit na zem
 
 po složeni vlastního "teploměru" můžete porovnat s nějakým co máte již doma ja tak učinil a došel jsem k závěru že je co doladit 
 níže je výsledek porovnání které probíhalo ve 3 různých prostorách hodnoty v tabulce jsou vždy průměrem 3 měření cca 20 sekund po sobě 
 
-![image](https://github.com/Hoky8/hocke-projekt/assets/154540264/e19910f2-6214-45d1-9677-34c2ecd80a93)
+![projekt 264](https://github.com/Hoky8/Hcoke-projekt1/assets/154540264/33c21bc6-648a-4a13-9a39-bc1575eeccdd)
+
+
 # Hcoke-projekt1
