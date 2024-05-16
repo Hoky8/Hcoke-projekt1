@@ -50,7 +50,7 @@ void loop() {
 ![IMG_7945](https://github.com/Hoky8/Hcoke-projekt1/assets/154540264/1cb9afb6-1b80-41c0-8d4f-580e68a65ffa)
 
 
-#analog(bílí drátek)
+# analog(bílí drátek)
 
 ![IMG_7946](https://github.com/Hoky8/Hcoke-projekt1/assets/154540264/5fe094e9-80f9-42f0-a98e-c5f0c81da225)
 
