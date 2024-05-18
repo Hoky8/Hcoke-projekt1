@@ -72,4 +72,10 @@ níže je výsledek porovnání které probíhalo ve 3 různých prostorách hod
 ![projekt 264](https://github.com/Hoky8/Hcoke-projekt1/assets/154540264/33c21bc6-648a-4a13-9a39-bc1575eeccdd)
 
 
-# Hcoke-projekt1
+# zdroje
+
+https://navody.dratek.cz/arduino-projekty/arduino-teplota-zobrazovana-na-displeji.html
+
+https://rpishop.cz/senzory-teploty-a-vlhkosti/128-analog-devices-tmp36-temperature-sensor.html
+
+s projektem mi pomáhal bratranec (věnovaní některých součástek a konzultace při neupěšném pokusu o zapojeni displeje :D)
